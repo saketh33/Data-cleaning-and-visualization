@@ -1,7 +1,7 @@
 # Data-cleaning-and-visualization
 Here you will have some datasets that are downloaded from different websites like kaggle etc., and also you will have python code which had cleaned and visualized the data which is ready for applying some machine learning algorithms
 # matplotlib colors plot
-Here you can have all colours in matplotlib. We get colors using matplotlib.color,matplotlib.colors.rgb_to_hsv,matplotlib.colors.to_rgba.
+Here you can have all colours in matplotlib. We get colors using matplotlib.color,matplotlib.colors.rgb_to_hsv,matplotlib.colors.to_rgba.\
 simple list of colors
 a='black dimgray dimgrey gray darkgray darkgrey silver lightgray lightgrey gainsboro whitesmoke white snow';black_white=str(a).split()
 b=' rosybrown lightcoral indianred brown firebrick maroon darkred red mistyrose salmon tomato darksalmon coral' \
