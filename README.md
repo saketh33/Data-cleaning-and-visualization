@@ -4,6 +4,5 @@ Here you will have some datasets that are downloaded from different websites lik
 Here you can have all colours in matplotlib. We get colors using matplotlib.color,
 matplotlib.colors.rgb_to_hsv,
 matplotlib.colors.to_rgba.
-![GitHub Logo](C:\\Users\\saketh\\Documents\\0)
-Format: ![Alt Text](url)
+![alt text](http://i.stack.imgur.com/fMx2j.png)
 
